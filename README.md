@@ -4,7 +4,7 @@ Ismail Cam & Mazlum Dogan Sert
 ---
 
 **Website:**
-[http://cph.bigstep.dk](http://cph.bigstep.dk){:target="_blank"}
+<a href="http://cph.bigstep.dk" target="_blank">http://cph.bigstep.dk</a>
 
 ---
 
